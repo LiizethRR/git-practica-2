@@ -55,5 +55,7 @@
 
 
 ## 17. Respuestas a las Preguntas
+<img width="1914" height="1049" alt="image" src="https://github.com/user-attachments/assets/3e3d5519-f14b-4efe-b7ee-7e8f1b6fb5ca" />
+
 
 ## 18. Evidencia Final del Repositorio
